@@ -1,0 +1,13 @@
+D:\platzi\Csharp\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.exe
+D:\platzi\Csharp\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.deps.json
+D:\platzi\Csharp\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.runtimeconfig.json
+D:\platzi\Csharp\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.runtimeconfig.dev.json
+D:\platzi\Csharp\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.dll
+D:\platzi\Csharp\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.pdb
+D:\platzi\Csharp\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.csprojAssemblyReference.cache
+D:\platzi\Csharp\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.csproj.CoreCompileInputs.cache
+D:\platzi\Csharp\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.AssemblyInfoInputs.cache
+D:\platzi\Csharp\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.AssemblyInfo.cs
+D:\platzi\Csharp\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.dll
+D:\platzi\Csharp\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.pdb
+D:\platzi\Csharp\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.genruntimeconfig.cache
