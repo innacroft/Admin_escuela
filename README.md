@@ -1,5 +1,5 @@
-### APPTASK - TODO page
-📝 🌶
+### SCHOOL MANAGER
+📝🇨 #⃣  📝
 
 #### Description
 Programm on C# for school manager
